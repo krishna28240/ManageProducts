@@ -1,4 +1,4 @@
-## Spring Boot Angular
+## Spring Boot Product Catalog
 
 This module contains articles about Spring Boot Product Catalog
 
